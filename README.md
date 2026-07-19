@@ -11,8 +11,8 @@ Provision a Windows Server virtual machine in Azure, then connect to it remotely
 ### Key Steps
 
 **1. Create the Azure virtual machine** [0:00](https://loom.com/share/2cad6a4ec71047a18d92747fdef39e73?t=0)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/064bd6dc-510f-4e75-b9ae-b7294dd3898d" />
 
-![generated-image-at-00:00:00](https://loom.com/i/a29358f47b984052b62e29b155030b39?workflows_screenshot=true)
 
 - In Azure, start the process to create a new virtual machine.
 - Choose the appropriate subscription/resource group setup as needed.
